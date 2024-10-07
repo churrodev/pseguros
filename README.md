@@ -58,3 +58,9 @@ module.exports = {
 - **Inicia el servidor de desarrollo local utilizando el siguiente comando:**
 
 - **npm run dev**
+
+### 6. Datos de contacto
+
+- **Apellido y Nombre:**
+- Aguirre, Richard Adrián
+- 370-4381395
